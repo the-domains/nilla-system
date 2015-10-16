@@ -1,6 +1,6 @@
 name: nilla-system
 favicon: null
-layout_spectrum: 0.8
+layout_spectrum: 0.2862273140344769
 cta:
   domain: null
   bucket: null
@@ -24,3 +24,4 @@ purpose:
     item: null
     url: null
 style: 'https://forresto.github.io/nilla-system/nilla.js'
+typography_spectrum: 0.3901483591180295
